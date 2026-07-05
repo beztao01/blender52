@@ -4,7 +4,11 @@ theme: just-the-docs
 
 url: https://just-the-docs.github.io
 
+# Permite que el usuario elija o que se adapte al sistema operativo
+color_scheme: dark
+search_tokenizer_separator: /[\s\-]+/
+
 aux_links:
   Template Repository: https://github.com/just-the-docs/just-the-docs-template
 
-color_scheme: dark
+
